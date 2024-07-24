@@ -1,3 +1,5 @@
+import BestSellerCategory from "@/sections/best seller category/BestSellerCategory";
+import FeaturedProducts from "@/sections/featured products/FeaturedProducts";
 import LandingPageHeader from "@/sections/landing page header/LandingPageHeader";
 import LandingPageImage from "@/sections/landing page image/LandingPageImage";
 import LandingPageWebFeatures from "@/sections/landing page web features/LandingPageWebFeatures";
@@ -15,6 +17,8 @@ export default function Home() {
   <LandingPageImage/>
 </section>
 <LandingPageWebFeatures/>
+<BestSellerCategory/>
+<FeaturedProducts/>
     </main>
   );
 }

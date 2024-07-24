@@ -1,0 +1,31 @@
+[
+    {
+        "id":0,
+        "image":"/svg/best seller/bestseller1.svg",
+        "title": "Curated Comfort",
+        "description":"Elevate your space with handcrafted & designer finds.",
+        "route":"/applicances"
+    },
+    {
+         "id":1,
+        "image":"/svg/best seller/bestseller2.svg",
+         "title": "Artisan Alley",
+        "description":"Discover handcrafted treasures made with passion and purpose.",
+        "route":"/applicances"
+    },  
+     {
+        "id":2,
+        "image":"/svg/best seller/bestseller3.svg",
+        "title": "Elevate your kitchen",
+        "description":"Discover premium tools & elevate your culinary journey",
+        "route":"/applicances"
+    },
+    {
+        "id":3,
+        "image":"/svg/best seller/bestseller4.svg",
+        "title": "Dress Your Story",
+        "description":"Discover unique pieces that express your individuality",
+        "route":"/applicances"
+    }
+    
+]

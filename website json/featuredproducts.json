@@ -1,0 +1,63 @@
+[
+    {
+        "id":0,
+        "image":"/svg/featured products/headphone.svg",
+        "title": "ARTIX CL750 On-Ear Headphones Wired with Mic — Noise Isolating Plug in Headphones",
+        "description":"These on-ear headphones deliver rich sound with noise isolation, perfect for focused listening.",
+        "route":"/applicances",
+        "rating":"5.0",
+        "tag":"Game Accessories",
+        "price":"21.99"
+    },
+    {
+         "id":1,
+         "image":"/svg/featured products/headphone.svg",
+         "title": "ARTIX CL750 On-Ear Headphones Wired with Mic — Noise Isolating Plug in Headphones",
+         "description":"These on-ear headphones deliver rich sound with noise isolation, perfect for focused listening.",
+         "route":"/applicances",
+         "rating":"5.0",
+         "tag":"Game Accessories",
+         "price":"21.99"
+    },  
+     {
+        "id":2,
+        "image":"/svg/featured products/headphone.svg",
+        "title": "ARTIX CL750 On-Ear Headphones Wired with Mic — Noise Isolating Plug in Headphones",
+        "description":"These on-ear headphones deliver rich sound with noise isolation, perfect for focused listening.",
+        "route":"/applicances",
+        "rating":"5.0",
+        "tag":"Game Accessories",
+        "price":"21.99"
+    },
+    {
+        "id":3,
+        "image":"/svg/featured products/headphone.svg",
+        "title": "ARTIX CL750 On-Ear Headphones Wired with Mic — Noise Isolating Plug in Headphones",
+        "description":"These on-ear headphones deliver rich sound with noise isolation, perfect for focused listening.",
+        "route":"/applicances",
+        "rating":"5.0",
+        "tag":"Game Accessories",
+        "price":"21.99"
+    },
+    {
+        "id":4,
+        "image":"/svg/featured products/headphone.svg",
+        "title": "ARTIX CL750 On-Ear Headphones Wired with Mic — Noise Isolating Plug in Headphones",
+        "description":"These on-ear headphones deliver rich sound with noise isolation, perfect for focused listening.",
+        "route":"/applicances",
+        "rating":"5.0",
+        "tag":"Game Accessories",
+        "price":"21.99"
+    },
+    {
+        "id":5,
+        "image":"/svg/featured products/headphone.svg",
+        "title": "ARTIX CL750 On-Ear Headphones Wired with Mic — Noise Isolating Plug in Headphones",
+        "description":"These on-ear headphones deliver rich sound with noise isolation, perfect for focused listening.",
+        "route":"/applicances",
+        "rating":"5.0",
+        "tag":"Game Accessories",
+        "price":"21.99"
+    }
+    
+]

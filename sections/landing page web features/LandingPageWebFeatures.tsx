@@ -40,8 +40,9 @@ const LandingPageWebFeatures = () => {
         <p className='font-semibold text-lg'>{feature.title}</p>
         <p className='text-sm text-gray'>{feature.subTitle}</p>
         </div>
-    </div>)
-}
+    </div>
+)}
+
     </section>
   )
 }

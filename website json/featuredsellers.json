@@ -1,0 +1,59 @@
+[
+    {
+        "id":0,
+        "title": "Luminaire Lab",
+     "subtitle":"“Luminaire Lab pushes the boundaries of lighting design. Their handcrafted concrete lamps are a fusion of modern aesthetics and functionality, adding a touch of statement to any space.”",
+        "route":"/applicances",
+        "image":"/svg/featured products/headphone.svg"
+    },
+    {
+        "id":1,
+        "title": "Luminaire Lab",
+     "subtitle":"“Luminaire Lab pushes the boundaries of lighting design. Their handcrafted concrete lamps are a fusion of modern aesthetics and functionality, adding a touch of statement to any space.”",
+        "route":"/applicances",
+        "image":"/svg/featured products/headphone.svg"
+    },  
+     {
+        "id":2,
+        "title": "Luminaire Lab",
+     "subtitle":"“Luminaire Lab pushes the boundaries of lighting design. Their handcrafted concrete lamps are a fusion of modern aesthetics and functionality, adding a touch of statement to any space.”",
+        "route":"/applicances",
+        "image":"/svg/featured products/headphone.svg"
+    },
+    {
+        "id":3,
+        "title": "Luminaire Lab",
+     "subtitle":"“Luminaire Lab pushes the boundaries of lighting design. Their handcrafted concrete lamps are a fusion of modern aesthetics and functionality, adding a touch of statement to any space.”",
+        "route":"/applicances",
+        "image":"/svg/featured products/headphone.svg"
+    },
+    {
+        "id":4,
+        "title": "Electronics & Appliances",
+     "subtitle":"“Luminaire Lab pushes the boundaries of lighting design. Their handcrafted concrete lamps are a fusion of modern aesthetics and functionality, adding a touch of statement to any space.”",
+        "route":"/applicances",
+        "image":"/svg/featured products/headphone.svg"
+    },
+    {
+        "id":5,
+        "title": "Luminaire Lab",
+     "subtitle":"“Luminaire Lab pushes the boundaries of lighting design. Their handcrafted concrete lamps are a fusion of modern aesthetics and functionality, adding a touch of statement to any space.”",
+        "route":"/applicances",
+        "image":"/svg/featured products/headphone.svg"
+    },
+    {
+        "id":6,
+        "title": "Luminaire Lab",
+     "subtitle":"“Luminaire Lab pushes the boundaries of lighting design. Their handcrafted concrete lamps are a fusion of modern aesthetics and functionality, adding a touch of statement to any space.”",
+        "route":"/applicances",
+        "image":"/svg/featured products/headphone.svg"
+    },
+    {
+        "id":7,
+        "title": "Luminaire Lab",
+     "subtitle":"“Luminaire Lab pushes the boundaries of lighting design. Their handcrafted concrete lamps are a fusion of modern aesthetics and functionality, adding a touch of statement to any space.”",
+        "route":"/applicances",
+        "image":"/svg/featured products/headphone.svg"
+    }
+    
+]
