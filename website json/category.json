@@ -1,0 +1,43 @@
+[
+    {
+        "id":0,
+        "name": "Applicances",
+        "route":"/applicances"
+    },
+    {
+        "id":1,
+        "name": "Arts & Crafts",
+        "route":"/applicances"
+    },  
+     {
+        "id":2,
+        "name":   "Beauty & Wellness",
+        "route":"/applicances"
+    },
+    {
+        "id":3,
+        "name": "Computer",
+        "route":"/applicances"
+    },
+    {
+        "id":4,
+        "name": "Electronics & Appliances",
+        "route":"/applicances"
+    },
+    {
+        "id":5,
+        "name": "Fashion & Apparel",
+        "route":"/applicances"
+    },
+    {
+        "id":6,
+        "name": "Health & Household",
+        "route":"/applicances"
+    },
+    {
+        "id":7,
+        "name": "Home & Kitchen",
+        "route":"/applicances"
+    }
+    
+]
