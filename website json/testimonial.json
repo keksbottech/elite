@@ -1,0 +1,42 @@
+[
+    {
+        "id":0,
+        "content":"Easy website, detailed descriptions, and beautiful packaging - it felt like a gift! Exceeded expectations - unique finds, presented with care.  Supporting artists, loving it!  Highly recommend!",
+        "name":"Sarah James",
+        "occupation":"Designer",
+        "rating":5,
+        "image":"/svg/testimonial/item1.svg"
+    },
+    {
+        "id":1,
+        "content":"Easy website, detailed descriptions, and beautiful packaging - it felt like a gift! Exceeded expectations - unique finds, presented with care.  Supporting artists, loving it!  Highly recommend!",
+        "name":"Sarah James",
+        "occupation":"Designer",
+        "rating":5,
+        "image":"/svg/testimonial/item1.svg"
+    },
+    {
+        "id":2,
+        "content":"Easy website, detailed descriptions, and beautiful packaging - it felt like a gift! Exceeded expectations - unique finds, presented with care.  Supporting artists, loving it!  Highly recommend!",
+        "name":"Sarah James",
+        "occupation":"Designer",
+        "rating":5,
+        "image":"/svg/testimonial/item1.svg"
+    },
+    {
+        "id":3,
+        "content":"Easy website, detailed descriptions, and beautiful packaging - it felt like a gift! Exceeded expectations - unique finds, presented with care.  Supporting artists, loving it!  Highly recommend!",
+        "name":"Sarah James",
+        "occupation":"Designer",
+        "rating":5,
+        "image":"/svg/testimonial/item1.svg"
+    },
+    {
+        "id":4,
+        "content":"Easy website, detailed descriptions, and beautiful packaging - it felt like a gift! Exceeded expectations - unique finds, presented with care.  Supporting artists, loving it!  Highly recommend!",
+        "name":"Sarah James",
+        "occupation":"Designer",
+        "rating":5,
+        "image":"/svg/testimonial/item1.svg"
+    }
+]

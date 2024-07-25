@@ -1,0 +1,25 @@
+{
+    "sections": [
+      {
+        "title": "Product",
+        "links": ["Overview", "Features", "Pricing", "Releases"]
+      },
+      {
+        "title": "Company",
+        "links": ["About us", "Careers", "Press", "News", "Media kit", "Contact"]
+      },
+      {
+        "title": "Resources",
+        "links": ["Blog", "Newsletter", "Events", "Help centre", "Support"]
+      },
+      {
+        "title": "Social",
+        "links": ["Twitter", "Linkedin", "Facebook", "GitHub", "AngelList", "Dribbble"]
+      },
+      {
+        "title": "Legal",
+        "links": ["Terms", "Privacy", "Cookies", "Licenses", "Settings", "Contact"]
+      }
+    ]
+  }
+  
