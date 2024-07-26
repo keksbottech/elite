@@ -1,0 +1,33 @@
+[
+    {
+      "id":0,
+      "label": "Items",
+      "value": 8
+    },
+    {
+      "id":1,
+      "label": "Sub-total",
+      "value": "$200.00"
+    },
+    {
+        "id":2,
+      "label": "Shipping",
+      "value": "$00.00"
+    },
+    {
+      "id":3,
+      "label": "Taxes",
+      "value": "$00.00"
+    },
+    {
+      "id":4,
+      "label": "Coupon Discount",
+      "value": "-$50.00"
+    },
+    {
+      "id":5,
+      "label": "Total",
+      "value": "$150.00",
+      "isTotal": true
+    }
+  ]

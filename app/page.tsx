@@ -13,8 +13,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="">
-<SubHeaderAlert/>
-<LandingPageHeader/>
+
 <section className="p-5 flex items-center justify-between w-full">
   <LandingPageWelcomeText/>
   <LandingPageImage/>

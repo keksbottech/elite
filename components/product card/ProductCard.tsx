@@ -41,8 +41,10 @@ export default function ProductCard({ className, footer, description, title, con
     <Card className={cn("w-[380px]", className)}>
       <CardHeader>
         <CardTitle className="">
+            <div>
             <div className="relative w-full h-[200px]">
             <Image src={url} alt={`${title} image`} fill/>
+            </div>
             </div>
 
             <div className="flex items-center justify-between text-sm">

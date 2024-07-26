@@ -1,9 +1,14 @@
+import { cn } from '@/lib/utils'
 import Image from 'next/image'
 import React from 'react'
 
-const PopularBrands = () => {
+type PopularBrandsPropType = {
+    className?: string
+}
+
+const PopularBrands = ({className}:PopularBrandsPropType) => {
   return (
-    <section className='flex flex-col items-center justify-center mb-10'>
+    <section className={cn('flex flex-col items-center justify-center mb-10', className)}>
         <h1 className='font-bold text-2xl mb-5'>Our popular brands</h1>
 
 <div className='relative w-[700px] h-[100px] bg-secondary'>

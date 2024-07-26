@@ -1,3 +1,4 @@
+import { cn } from '@/lib/utils'
 import { IconChecklist, IconClipboard, IconHeadphones, IconUser } from '@tabler/icons-react'
 import React from 'react'
 
@@ -28,9 +29,12 @@ const features = [
     },
 ]
 
-const LandingPageWebFeatures = () => {
+type LandingPageWebFeaturesPropTypes = {
+    className?: string
+}
+const LandingPageWebFeatures = ({className}:LandingPageWebFeaturesPropTypes) => {
   return (
-    <section className='flex items-center justify-between p-5'>
+    <section className={cn('flex items-center justify-between p-5', className)}>
 {
     features?.map(feature => <div className='flex items-center space-x-2'>
         <div className='text-secondary'>
