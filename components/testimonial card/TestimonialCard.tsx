@@ -22,7 +22,7 @@ const TestimonialCard = ({url = '', content, name,occupation, className, rating}
         <div className=' space-y-2'>
         <div className='flex items-center'>
             {
-                new Array(rating).fill('0').map(star => <IconStarFilled size={18} className='text-orange-400'/>)
+                new Array(rating).fill('0').map((star, index) => <IconStarFilled key={index} size={18} className='text-orange-400'/>)
             }
             </div>
             <p className='text-sm'>{content}</p>

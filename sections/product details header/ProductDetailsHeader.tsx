@@ -106,7 +106,7 @@ export default function ProductDetailsHeader({ className, footer, description, t
 <div className="flex items-center">
 {
  productImages?.map(image =>          
-                            <div className="relative w-full h-[140px]">
+                            <div key={image.id} className="relative w-full h-[140px]">
                     <Image src={image.image} alt={`${title} image`} fill/>
                     </div>
                             

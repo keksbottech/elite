@@ -36,7 +36,7 @@ const LandingPageWebFeatures = ({className}:LandingPageWebFeaturesPropTypes) => 
   return (
     <section className={cn('flex items-center justify-between p-5', className)}>
 {
-    features?.map(feature => <div className='flex items-center space-x-2'>
+    features?.map(feature => <div key={feature.id} className='flex items-center space-x-2'>
         <div className='text-secondary'>
         {feature.icon}
         </div>
