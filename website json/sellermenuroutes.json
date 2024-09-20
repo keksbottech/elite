@@ -1,0 +1,22 @@
+[
+    {
+        "id":0,
+        "name":"Home",
+        "route":"/seller/home"
+    },
+    {
+        "id":1,
+        "name":"Analytics",
+        "route":"/seller/analytics"
+    },
+    {
+        "id":2,
+        "name":"Product Management",
+        "route":"/seller/product-management"
+    },
+    {
+        "id":3,
+        "name":"Messaging/Support",
+        "route":"/seller/messaging"
+    }
+]

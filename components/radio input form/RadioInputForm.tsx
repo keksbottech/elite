@@ -15,10 +15,13 @@ import {
 } from "@/components/ui/form"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
 import { toast } from "@/components/ui/use-toast"
+import { ReactNode } from "react"
+import { cn } from "@/lib/utils"
 
 
 type RadioFormPropTypes = {
-    label:string
+    label?:string | ReactNode;
+    className?: string;
 }
 
 const FormSchema = z.object({
@@ -27,7 +30,7 @@ const FormSchema = z.object({
   }),
 })
 
-export function RadioGroupForm({label}: RadioFormPropTypes) {
+export function RadioGroupForm({label, className}: RadioFormPropTypes) {
   const form = useForm<z.infer<typeof FormSchema>>({
     resolver: zodResolver(FormSchema),
   })
@@ -45,20 +48,20 @@ export function RadioGroupForm({label}: RadioFormPropTypes) {
 
   return (
     <Form {...form}>
-      <form onSubmit={form.handleSubmit(onSubmit)} className="w-2/3 space-y-6">
+      <form onSubmit={form.handleSubmit(onSubmit)} className={cn("w-2/3 space-y-6", className)}>
         <FormField
           control={form.control}
           name="type"
           render={({ field }) => (
-            <FormItem className="space-y-3">
+            <FormItem className="space-y-3 ">
               {/* <FormLabel>Notify me about...</FormLabel> */}
-              <FormControl>
+              <FormControl className="">
                 <RadioGroup
                   onValueChange={field.onChange}
                   defaultValue={field.value}
                   className="flex flex-col space-y-5"
                 >
-                  <FormItem className="flex items-center space-x-3 space-y-0 mb-5">
+                  <FormItem className="flex items-center space-x-3 space-y-0 ">
                     <FormControl className="space-y-5">
                       <RadioGroupItem value="all" />
                     </FormControl>

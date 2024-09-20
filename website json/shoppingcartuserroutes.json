@@ -1,0 +1,37 @@
+[
+    {
+      "id":0,
+       "routename": "Personal Information",
+        "route": "/shopping-cart-user/personal-information"
+    },
+    {
+      "id":1,
+       "routename": "My orders",
+        "route": "/shopping-cart-user/myorders"
+    },
+    {
+      "id":2,
+       "routename": "manage address",
+        "route": "/shopping-cart-user/manage-address"
+    },
+    {
+      "id":3,
+       "routename": "Payment method",
+        "route": "/shopping-cart-user/payment-method"
+    },
+    {
+      "id":4,
+       "routename": "password manager",
+        "route": "/shopping-cart-user/password-manager"
+    },
+    {
+        "id":4,
+         "routename": "Track your Order",
+          "route": "/shopping-cart-user/track-your-order"
+      },
+    {
+      "id":5,
+       "routename": "Logout",
+        "route": "/shopping-cart-user/logout"
+    }
+]

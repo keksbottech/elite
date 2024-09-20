@@ -1,0 +1,21 @@
+[
+    {
+        "id":0,
+        "title":"Total profile",
+        "content": "45,679.90",
+        "footer": "+20% over the last month"
+    },
+    {
+        "id":1,
+        "title":"Total sales",
+        "content": "2,450+",
+        "footer": "+33% over the last month"
+    },
+    {
+        "id":2,
+        "title":"Conversion rate",
+        "content": "75%",
+        "footer": "-8% over the last month"
+    }
+
+]

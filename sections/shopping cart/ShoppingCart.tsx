@@ -5,15 +5,16 @@ import { Input } from '@/components/ui/input'
 import React from 'react'
 import LandingPageWebFeatures from '../landing page web features/LandingPageWebFeatures'
 import PopularBrands from '../popular brands/PopularBrands'
+import orderSummaryData from '@/website json/ordersummary.json'
 
 const ShoppingCart = () => {
   return (
     <section className='p-10'>
         <div className='flex justify-between'>
         <ShoppingCartForm/>
-        <OrderSummary/>
+        <OrderSummary orderSummaryData={orderSummaryData} buttonText='Proceed to checkout'/>
     </div>
-
+ 
     <form className='flex items-center space-x-3 mt-10'>
         <div className='flex items-center space-x-3'>
         <Input placeholder='Coupon Code'/>

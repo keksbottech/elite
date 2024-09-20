@@ -1,0 +1,27 @@
+[
+    {
+        "id":0,
+        "paymentName":"Paypal",
+        "icon": "paypal"
+    },
+    {
+        "id":1,
+        "paymentName":"**** **** **** 8047",
+        "icon": "visa"
+    },
+    {
+        "id":2,
+        "paymentName":"Pay Google pay",
+        "icon": "google"
+    },
+    {
+        "id":3,
+        "paymentName":"cash on delivery",
+        "icon": "atm"
+    },
+    {
+        "id":4,
+        "paymentName":"add new credit/debit card",
+        "icon": "camera"
+    }
+]

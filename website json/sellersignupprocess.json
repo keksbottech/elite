@@ -1,0 +1,17 @@
+[
+    {
+        "id":0,
+        "name": "Account Creation",
+        "route":"/seller/signup/account-creation"
+    },
+    {
+        "id":1,
+        "name": "Business Details",
+        "route":"/seller/signup/business-details"
+    },
+    {
+        "id":2,
+        "name": "Finish",
+        "route":"/seller/signup/finish"
+    }
+]
